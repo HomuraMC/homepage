@@ -8,11 +8,13 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Document
+      link: https://docs.homuramc.0t0.jp/
+    - theme: View on Github
+      link: https://github.com/HomuraMC/Homura
 
 features:
   - title: Feature A
