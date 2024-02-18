@@ -9,12 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /markdown-examples
+      link: https://docs.homuramc.0t0.jp/get-started
     - theme: alt
       text: Document
       link: https://docs.homuramc.0t0.jp/
-    - theme: View on Github
-      link: https://github.com/HomuraMC/Homura
 
 features:
   - title: Feature A
